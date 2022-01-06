@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -14,5 +14,8 @@
     "cheerio": "^1.0.0-rc.10",
     "moment": "^2.29.1",
     "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^97.0.0"
   }
 }
